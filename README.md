@@ -7,4 +7,4 @@ added a new line
 
 from the new branch
 
-Ishaan Sunil Lonkar - AI residency bot
+Mohammad Arshad - AI Residency Bot
